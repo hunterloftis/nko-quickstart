@@ -15,10 +15,14 @@ If I were to give one piece of advice, it would be:
 *scope your design to what you think you can accomplish in 8 hours.*
 Then, you might have a shot at finishing mostly-bug-free in 48.
 
-Of course, it can be helpful to start from a known-good reference.
-So I've put together this extremely minimal quick-start with instructions to take you from zero
-to "Hello, world," with some ideas about where you might go afterwards.
+Of course, it can be helpful to start from a known-good reference,
+so I've put together this minimal quick-start.
+It should take you from zero to "Hello, world," with some ideas about where you might go afterwards.
 If you find yourself stuck early on, this is a known-good point from which you can get un-stuck.
+
+If you're more comfortable with the patterns in create-react-app,
+there's a [fully documented react/node starter pack](https://github.com/heroku-examples/node-knockout-react-node-starter)
+for that as well.
 
 # Getting set up
 
