@@ -8,6 +8,8 @@ We submitted an awesome, ambitious entry that was [riddled with bugs](https://gi
 ![Learning Node](https://pbs.twimg.com/media/DNzVMB3W4AAfg5v.jpg:large)
 
 I entered the next year, and the next year, and didn't place until year three, but I had an amazing experience every time.
+Node Knockout is a great way to push yourself, to learn, to have fun, and to hang out with friends.
+
 If I were to give one piece of advice, it would be:
 *scope your design to what you think you can accomplish in 8 hours.*
 Then, you might have a shot at finishing mostly-bug-free in 48.
