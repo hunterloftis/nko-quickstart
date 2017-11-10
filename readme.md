@@ -28,7 +28,7 @@ If you find yourself stuck early on, this is a known-good point from which you c
 
 # Creating your NKO app
 
-First, give this quick start a name:
+First, give your app a name and pull the quick start code:
 
 ```
 $ git init my-nko-idea
