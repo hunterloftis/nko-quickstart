@@ -2,10 +2,11 @@
 
 Hello, Node Knockout hackers!
 
-Seven years ago, before I ran Heroku's Node.js platform, I started learning node when [a friend](https://github.com/aheckmann) convinced me to join his team in the first Node Knockout.
-We submitted an awesome, ambitious entry that was [riddled with bugs](https://github.com/aheckmann/Nodal-Kombat):
-
-![Learning Node](https://pbs.twimg.com/media/DNzVMB3W4AAfg5v.jpg:large)
+Seven years ago, before I ran Heroku's Node.js platform, I
+[started learning node](https://twitter.com/HunterLoftis/status/926850031591804929)
+when [a friend](https://github.com/aheckmann)
+convinced me to join his team in the first Node Knockout.
+We submitted an awesome, [ambitious entry](https://github.com/aheckmann/Nodal-Kombat) that was riddled with bugs.
 
 I entered the next year, and the next year, and didn't place until year three, but I had an amazing experience every time.
 Node Knockout is a great way to push yourself, to learn, to have fun, and to hang out with friends.
