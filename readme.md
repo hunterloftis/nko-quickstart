@@ -50,11 +50,13 @@ $ heroku open
 If everything looks good, set this app up as your NKO app:
 
 ```
+$ heroku access:add other@team-members.com
 $ git remote add origin (your node knockout github url)
 $ git push origin master
 ```
 
-Finally, save your app name in your [Node Knockout Team page](https://www.nodeknockout.com/team/edit).
+Finally, save your app name in your [Node Knockout Team page](https://www.nodeknockout.com/team),
+which will also have 500 additional free dyno hours from Heroku for you to [add to your account](https://www.heroku.com/freehours).
 
 # Developing locally
 
