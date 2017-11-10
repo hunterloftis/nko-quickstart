@@ -6,13 +6,11 @@
     "node": "8.9.1"
   },
   "scripts": {
-    "prettify": "standard --fix 'bin/*' 'lib/**/*.js'",
-    "dev": "heroku local -f Procfile.dev || true"
+    "start": "nodemon --watch . --watch bin/* bin/web"
   },
   "main": "bin/web",
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^1.11.0",
-    "standard": "^8.6.0"
+    "nodemon": "^1.11.0"
   }
 }
