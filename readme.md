@@ -23,7 +23,7 @@ If you find yourself stuck early on, this is a known-good point from which you c
 # Getting set up
 
 1. [Register your Node Knockout team](https://www.nodeknockout.com/).
-2. [Install Node.js locally](https://nodejs.org/en/download/).
+2. [Install Node.js 8.9.1 locally](https://nodejs.org/en/download/).
 3. [Install the Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up) and log in with your [free account](https://signup.heroku.com/dc).
 
 # Creating your NKO app
