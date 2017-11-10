@@ -74,5 +74,10 @@ To deploy updates to your app:
 $ git commit -am 'something awesome'
 $ git push heroku master
 $ heroku open
+```
+
+You might also want to stream your app's logs in the background:
+
+```
 $ heroku logs --tail
 ```
