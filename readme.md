@@ -84,7 +84,7 @@ $ heroku logs --tail
 
 # Leverage the Ecosystem
 
-I encourage you to use Heroku's ecosystem of free add-ons so you can focus entirely on what makes your app unique during the competition. I've listed ideas here, but there are [many more](https://elements.heroku.com/addons):
+I encourage you to use Heroku's ecosystem of free add-ons so you can focus entirely on what makes your app unique during the competition. I've listed a few here, but there are [many more](https://elements.heroku.com/addons):
 
 - Data stores:
 [Postgres](https://elements.heroku.com/addons/heroku-postgresql),
