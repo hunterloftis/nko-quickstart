@@ -1,23 +1,18 @@
 {
-  "name": "hello-world",
+  "name": "nko-quickstart",
+  "repository": "https://github.com/hunterloftis/nko-quickstart",
   "version": "1.0.0",
   "engines": {
-    "node": "7.6.x"
+    "node": "8.9.1"
   },
   "scripts": {
     "prettify": "standard --fix 'bin/*' 'lib/**/*.js'",
-    "lint": "standard 'bin/*' 'lib/**/*.js'",
-    "secure": "nsp check",
-    "spec": "jest --silent",
-    "test": "yarn lint && yarn secure && yarn spec",
-    "dev": "heroku local -f Procfile.dev"
+    "dev": "heroku local -f Procfile.dev || true"
   },
-  "main": "app.js",
+  "main": "bin/web",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^19.0.2",
     "nodemon": "^1.11.0",
-    "nsp": "^2.6.2",
     "standard": "^8.6.0"
   }
 }

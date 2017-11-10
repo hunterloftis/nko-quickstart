@@ -1,24 +1,15 @@
 # Deploying
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-Or, from the command line:
-
 ```
 $ heroku create
 $ git push heroku master
 $ heroku open
+$ heroku logs --tail
 ```
 
 # Developing locally
 
 ```
-$ yarn
-$ yarn dev
-```
-
-# Testing
-
-```
-$ yarn test
+$ npm install
+$ npm run dev
 ```
