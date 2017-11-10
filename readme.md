@@ -60,7 +60,7 @@ First, install dependencies:
 $ npm install
 ```
 
-Then, start your app in dev-mode and edit away:
+Then, start your app in dev-mode, open [localhost](http://localhost:5000), and edit away:
 
 ```
 $ npm run dev
