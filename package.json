@@ -3,16 +3,16 @@
   "repository": "https://github.com/hunterloftis/nko-quickstart",
   "version": "1.0.0",
   "engines": {
-    "node": "8.9.1"
+    "node": "8.9.1",
+    "npm": "5.5.1"
   },
   "scripts": {
-    "prettify": "standard --fix 'bin/*' 'lib/**/*.js'",
-    "dev": "heroku local -f Procfile.dev || true"
+    "start": "nodemon --watch . --watch bin/* bin/web",
+    "heroku-postbuild": "echo Add any build commands here!"
   },
   "main": "bin/web",
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^1.11.0",
-    "standard": "^8.6.0"
+    "nodemon": "^1.11.0"
   }
 }

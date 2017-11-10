@@ -23,6 +23,8 @@ minimal quick-start with instructions to take you from zero
 to "Hello, world," with some ideas about where you might go afterwards.
 If you find yourself stuck early on, this is a known-good point from which you can get un-stuck.
 
+If you're more comfortable with the patterns in create-react-app, there's a [documented react/node starter pack](https://github.com/heroku-examples/node-knockout-react-node-starter)	that gets you set up with a backend Node service and a static frontend React app as well.
+
 # Getting set up
 
 1. [Register your Node Knockout team](https://www.nodeknockout.com/).
@@ -69,7 +71,7 @@ $ npm install
 Then, start your app in dev-mode, open [localhost](http://localhost:5000), and edit away:
 
 ```
-$ npm run dev
+$ npm start
 ```
 
 # Deploying changes
