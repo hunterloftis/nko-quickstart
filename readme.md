@@ -81,3 +81,19 @@ You might also want to stream your app's logs in the background:
 ```
 $ heroku logs --tail
 ```
+
+# Leverage the Ecosystem
+
+I encourage you to use Heroku's ecosystem of free add-ons so you can focus entirely on what makes your app unique during the competition. I've listed ideas here, but there are [many more](https://elements.heroku.com/addons):
+
+- Data stores:
+[Postgres](https://elements.heroku.com/addons/heroku-postgresql),
+[Redis](https://elements.heroku.com/addons/heroku-redis),
+[MongoDB](https://elements.heroku.com/addons/mongolab)
+- Queues and messaging:
+[AMQP](https://elements.heroku.com/addons/cloudamqp),
+[Pusher](https://elements.heroku.com/addons/pusher)
+- Other:
+[User management](https://elements.heroku.com/addons/auth0),
+[Geocoding](https://elements.heroku.com/addons/geocody),
+[Video, audio, image processing](https://elements.heroku.com/addons/transloadit)
