@@ -11,18 +11,17 @@ We submitted an awesome, [ambitious entry](https://github.com/aheckmann/Nodal-Ko
 I entered the next year, and the next year, and didn't place until year three, but I had an amazing experience every time.
 Node Knockout is a great way to push yourself, to learn, to have fun, and to hang out with friends.
 
-If I were to give one piece of advice, it would be:
+From my own experience, my biggest piece of advice for teams is:
 *scope your design to what you think you can accomplish in 8 hours.*
 Then, you might have a shot at finishing mostly-bug-free in 48.
 
-Of course, it can be helpful to start from a known-good reference,
-so I've put together this minimal quick-start.
-It should take you from zero to "Hello, world," with some ideas about where you might go afterwards.
-If you find yourself stuck early on, this is a known-good point from which you can get un-stuck.
+Right behind that would be: *do not wait until the last minute to deploy your application*. Start
+from something basic, get it running in production, and then push it periodically as you work on it.
 
-If you're more comfortable with the patterns in create-react-app,
-there's a [fully documented react/node starter pack](https://github.com/heroku-examples/node-knockout-react-node-starter)
-for that as well.
+It can be helpful to start from a known-good reference, so I've put together this extremely 
+minimal quick-start with instructions to take you from zero
+to "Hello, world," with some ideas about where you might go afterwards.
+If you find yourself stuck early on, this is a known-good point from which you can get un-stuck.
 
 # Getting set up
 
