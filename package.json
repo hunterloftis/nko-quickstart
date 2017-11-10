@@ -6,7 +6,8 @@
     "node": "8.9.1"
   },
   "scripts": {
-    "start": "nodemon --watch . --watch bin/* bin/web"
+    "start": "nodemon --watch . --watch bin/* bin/web",
+    "heroku-postbuild": "echo Add any build commands here!"
   },
   "main": "bin/web",
   "license": "MIT",
