@@ -47,7 +47,7 @@ $ heroku open
 If everything looks good, set this app up as your NKO app:
 
 ```
-$ git remote add origin (your node knockout git url)
+$ git remote add origin (your node knockout github url)
 $ git push origin master
 ```
 
